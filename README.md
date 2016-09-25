@@ -1,2 +1,2 @@
 # Android-app
-In this project we will do an app for Android OS
+In this project I will do an app for Android OS
